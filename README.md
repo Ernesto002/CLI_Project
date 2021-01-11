@@ -9,4 +9,4 @@ them inside the program.
 
 Before running the program enter 'bundle install' in your terminal to install all necessary gems.
 
-To run the program enter 'ruby bin/run.rb' in your terminal.
+To run the program enter 'ruby CLI_Projrct/bin/run.rb' in your terminal.
