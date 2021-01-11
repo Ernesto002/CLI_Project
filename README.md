@@ -1,5 +1,5 @@
 # CLI_Project
-My Pokemon CLI project for Flatiron School.
+My Pokemon CLI project.
 
 This CLI project is a program that gets data from PokeAPI which is used 
 to research characteristics of many different Pokemon. This program allows 
