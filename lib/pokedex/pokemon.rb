@@ -1,5 +1,5 @@
 class Pokemon 
-    attr_accessor :name, :type, :moves, :ability 
+    attr_accessor :name, :type, :moves, :ability
 
     @@all = []
 
@@ -21,4 +21,5 @@ class Pokemon
             x.name == name
         end
     end
+    
 end
