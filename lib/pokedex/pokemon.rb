@@ -21,5 +21,4 @@ class Pokemon
             x.name == name
         end
     end
-    
 end
